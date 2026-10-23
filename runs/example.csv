@@ -1,0 +1,4 @@
+time,template,goal,tries,minutes,ok,note
+2026-10-21 09:30,weekly-report,weekly sales recap for the team,1,4,yes,
+2026-10-21 11:05,research-brief,"is the new pricing page converting better",2,9,yes,first draft missed one source
+2026-10-22 16:40,bug-fix,"export button returns empty file",1,7,yes,
