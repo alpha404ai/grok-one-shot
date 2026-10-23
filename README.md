@@ -75,5 +75,6 @@ The rows in [`runs/example.csv`](runs/example.csv) show the format only.
 
 - [grok-trading-desk](https://github.com/alpha404ai/grok-trading-desk): an autonomous paper-trading desk
 - [grok-market-analyst](https://github.com/alpha404ai/grok-market-analyst): Grok scores market claims and grades itself
+- [grok-cost-cutter](https://github.com/alpha404ai/grok-cost-cutter): run routines for cents
 
 MIT License
