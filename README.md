@@ -73,7 +73,7 @@ The rows in [`runs/example.csv`](runs/example.csv) show the format only.
 
 ## More from this account
 
-- [grok-trading-desk](https://github.com/apha404ai/grok-trading-desk): an autonomous paper-trading desk
-- [grok-market-analyst](https://github.com/apha404ai/grok-market-analyst): Grok scores market claims and grades itself
+- [grok-trading-desk](https://github.com/alpha404ai/grok-trading-desk): an autonomous paper-trading desk
+- [grok-market-analyst](https://github.com/alpha404ai/grok-market-analyst): Grok scores market claims and grades itself
 
 MIT License
